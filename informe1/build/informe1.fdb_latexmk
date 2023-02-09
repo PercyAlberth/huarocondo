@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1675962492 "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/informe1.tex" "build/informe1.pdf" "informe1" 1675962497 0
+["pdflatex"] 1675963152 "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/informe1.tex" "build/informe1.pdf" "informe1" 1675963160 0
   "C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map" 1675951618 685427 c58981602cd23b36d887afc19a153f3f ""
   "C:/Users/DELL/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1654263789 12914472 a59d15af791758b830cd34de4d34a8d3 ""
   "C:/Users/DELL/AppData/Roaming/MiKTeX/tex/latex/geometry/geometry.cfg" 1578053545 1104 7ac475a4e3466b0b43e138e9356bda83 ""
@@ -195,9 +195,9 @@
   "D:/latex/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
   "D:/latex/tex/latex/zref/zref-abspage.sty" 1650051284 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "D:/latex/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
-  "build/informe1.aux" 1675962497 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
-  "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/informe1.tex" 1675962484 2983 9e0af191cf85696dfc349c057ae0907b ""
-  "informe1.tex" 1675962484 2983 9e0af191cf85696dfc349c057ae0907b ""
+  "build/informe1.aux" 1675963160 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
+  "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/informe1.tex" 1675963156 3003 4827e6ecbe6fd0abbd5b8096edc5fb88 ""
+  "informe1.tex" 1675963156 3003 4827e6ecbe6fd0abbd5b8096edc5fb88 ""
   (generated)
   "build/informe1.aux"
   "build/informe1.log"
