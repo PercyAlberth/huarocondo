@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2022.6.3)  9 FEB 2023 12:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2022.6.3)  9 FEB 2023 12:57
 entering extended mode
-**c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/informe1.tex
-(c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/informe1.tex
+**c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1.tex
+(c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (D:\latex\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -217,31 +217,43 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip52
-) (D:\latex\tex/latex/l3backend\l3backend-pdftex.def
+)
+Runaway argument?
+{{img/} 
+c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1.tex:9: Paragraph ended before \graphicspath was complete.
+<to be read again> 
+                   \par 
+l.9 
+    
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(D:\latex\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count283
 \l__pdf_internal_box=\box52
-) (c:\Users\DELL\Desktop\r\pract1\huarocondo\informe1\build\informe1.aux)
+) (c:\Users\DELL\Desktop\r\pract1\huarocondo\build\informe1.aux)
 \openout1 = `informe1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
  (D:\latex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count284
@@ -267,7 +279,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
 )
-Package hyperref Info: Link coloring ON on input line 12.
+Package hyperref Info: Link coloring ON on input line 13.
  (D:\latex\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (D:\latex\tex/latex/refcount\refcount.sty
@@ -277,35 +289,35 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count290
 )
-LaTeX Info: Redefining \ref on input line 12.
-LaTeX Info: Redefining \pageref on input line 12.
-LaTeX Info: Redefining \nameref on input line 12.
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
 \@outlinefile=\write3
 \openout3 = `informe1.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--22
+Underfull \hbox (badness 10000) in paragraph at lines 20--23
 
  []
 
 
-LaTeX Warning: File `logo.png' not found on input line 25.
+LaTeX Warning: File `logo.png' not found on input line 26.
 
 
-c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/informe1.tex:25: Package pdftex.def Error: File `logo.png' not found: using draft setting.
+c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1.tex:26: Package pdftex.def Error: File `logo.png' not found: using draft setting.
 
 See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 \includegraphics[scale=1]{logo.png}
-                                        
+l.26 \includegraphics{logo.png}
+                               
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 [1
 
-{C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\DELL\Desktop\r\pract1\huarocondo\informe1\build\informe1.aux)
+{C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\DELL\Desktop\r\pract1\huarocondo\build\informe1.aux)
 
 Package rerunfilecheck Warning: File `informe1.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
@@ -317,14 +329,14 @@ Package rerunfilecheck Info: Checksums for `informe1.out':
  ) 
 Here is how much of TeX's memory you used:
  9774 strings out of 478609
- 152151 string characters out of 2861958
+ 152052 string characters out of 2861958
  644412 words of memory out of 3000000
  27833 multiletter control sequences out of 15000+600000
  474655 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,290b,340s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 60i,6n,63p,281b,340s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <D:/latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/latex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/latex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/latex/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/latex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/latex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on c:\Users\DELL\Desktop\r\pract1\huarocondo\informe1\build\informe1.pdf (1 page, 78693 bytes).
+Output written on c:\Users\DELL\Desktop\r\pract1\huarocondo\build\informe1.pdf (1 page, 78693 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)

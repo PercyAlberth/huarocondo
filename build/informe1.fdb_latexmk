@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1675965141 "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/informe1.tex" "build/informe1.pdf" "informe1" 1675965145 2
+["pdflatex"] 1675965465 "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1.tex" "build/informe1.pdf" "informe1" 1675965469 2
   "C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map" 1675951618 685427 c58981602cd23b36d887afc19a153f3f ""
   "C:/Users/DELL/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1654263789 12914472 a59d15af791758b830cd34de4d34a8d3 ""
   "D:/latex/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -78,11 +78,11 @@
   "D:/latex/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "D:/latex/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "D:/latex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "build/informe1.aux" 1675965145 1259 01b7216184668ea9553d250105a9f6c0 "pdflatex"
-  "build/informe1.out" 1675965145 652 3a3495cce296d40550ef06246a49054e "pdflatex"
+  "build/informe1.aux" 1675965469 1259 01b7216184668ea9553d250105a9f6c0 "pdflatex"
+  "build/informe1.out" 1675965469 652 3a3495cce296d40550ef06246a49054e "pdflatex"
   "build/logo.png" 0 -1 0 ""
-  "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/informe1.tex" 1675965133 632 0fe5a36fc090b24ca9a343da8bcdbdcf ""
-  "informe1.tex" 1675965133 632 0fe5a36fc090b24ca9a343da8bcdbdcf ""
+  "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1.tex" 1675965458 643 d967040dac459253f83856eb82d8343b ""
+  "informe1.tex" 1675965458 643 d967040dac459253f83856eb82d8343b ""
   "logo.png" 0 -1 0 ""
   (generated)
   "build/informe1.aux"
