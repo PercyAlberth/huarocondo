@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1675976185 "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/build/informe1.tex" "build/informe1.pdf" "informe1" 1675976213 0
+["pdflatex"] 1675976233 "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/build/informe1.tex" "build/informe1.pdf" "informe1" 1675976258 0
   "C:/Users/DELL/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1675975882 685427 c58981602cd23b36d887afc19a153f3f ""
   "C:/Users/DELL/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1654782601 11548 3773835f24d25f130374f9d7172dc26c ""
   "C:/Users/DELL/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1675975968 13473634 10789529501fb45169ae29b0a737c5d9 ""
@@ -198,9 +198,9 @@
   "D:/latex/tex/latex/psfrag/psfrag.sty" 1656241896 7349 04574cd13971edb76f06a9e2e9a108d9 ""
   "D:/latex/tex/latex/zref/zref-abspage.sty" 1650051284 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "D:/latex/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
-  "build/informe1.aux" 1675976212 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
-  "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/build/informe1.tex" 1675976096 3102 f2022ee0644a4fbc2f1ad0480e18e786 ""
-  "informe1.tex" 1675976096 3102 f2022ee0644a4fbc2f1ad0480e18e786 ""
+  "build/informe1.aux" 1675976258 67 d1f1d04f1f825549314e4f02ae5806bb "pdflatex"
+  "c:/Users/DELL/Desktop/r/pract1/huarocondo/informe1/build/informe1.tex" 1675976231 3119 e3243b2f36279322ee6034b726df35fa ""
+  "informe1.tex" 1675976231 3119 e3243b2f36279322ee6034b726df35fa ""
   (generated)
   "build/informe1.aux"
   "build/informe1.log"
