@@ -1,6 +1,71 @@
 \documentclass{article}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\graphicspath{{img/}}
 
 \begin{document}
 Hola Mundo... otra vez\\
-estoy intentando dominarte, podre?
+estoy intentando dominarte, podre? \\
+\\
+esta vez si\\
+\\
+\begin{tabular}[H]{cc}
+    \hline
+    fruta & cantidad \\
+    manzana & 4 \\
+    naranja & 10 \\
+    platano & 3\\
+\end{tabular}
+\begin{table}[t]
+    \begin{center}
+        \begin{tabular}{|c|c|c|c|}
+            \hline
+            \multicolumn{4}{ |c| }{coches disponibles}\\
+            fabricante & modelo & clase & motor \\
+            bmw & serie 3 & berlina & diesel\\
+            peugeot & 508 & berlina & gasolina\\
+            \hline
+        \end{tabular}
+        \caption{coches disponibles}
+        \label{tab:coches}
+    \end{center}
+\end{table}
+\begin{table}[t]
+    \begin{center}
+        \begin{tabular}{|c|c|c|c|}
+            \hline
+            \multicolumn{4}{ |c| }{coches disponibles}\\ \hline
+            fabricante & modelo & clase & motor \\ 
+            \multicolumn{2}{ |c| }{bmw serie 3} & berlina & diesel\\
+            peugeot & 508 & berlina & gasolina\\
+            \hline
+        \end{tabular}
+        \caption{cuadro combinado}
+    \end{center}
+\end{table}\\
+aca se hace una nueva tabla
+\begin{table}[h]
+    \begin{center}
+        \begin{tabular}{|c|c|c|c|}
+            \hline
+            \multicolumn{4}{|c|}{coches disponibles}\\ \hline
+            fabricante & modelo & clase & motor \\ \hline
+            bmw & serie 3 & \multirow{2}{*}{berlina} & diesel\\ 
+            peugeot & 508 & & gasolina \\ \hline
+            chrysler & voyager & monovolumen & gasolina \\
+            \hline
+        \end{tabular}
+        \caption{tabla de coches disponibles}
+        \label{tab:coches2}
+    \end{center}
+\end{table}
+
+\begin{figure}
+    \centering
+        \includegraphics{img/peru.jpg}
+        \caption{mi primera figura}
+\end{figure}
+
 \end{document}
